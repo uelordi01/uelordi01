@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @uelordi01 **Computer Vision and AI researcher** at [Vicomtech](https://www.vicomtech.org/es/) since 2009
+- 👀 I’m interested in Deep Neural Networks, Computer Vision Algorithms, Iot and Heteregeneous computing models.
+- 🌱 I’m currently pursuing my PhD 
+- 💞️ I’m science communicator in media resources. Currently at [Naiz irratia]( https://irratia.naiz.eus/eu/list_irratia/saioak/bigarren-kafea)
